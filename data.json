@@ -1,0 +1,214 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/freepornvideosxxx-downloader",
+  "serply_link": "https://serp.ly/freepornvideosxxx-downloader",
+  "app_name": "Freepornvideosxxx Video Downloader",
+  "short_description": "Download & Save Freepornvideosxxx Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Downloader for Freepornvideosxxx is a browser extension that lets you save videos from FreePornVideos.xxx pages directly in your browser. Open a supported video page, start playback, and use the on-page button to save the media the site exposes. The workflow is built around generic direct-media detection, so you do not need to dig through page source or network tools to find the actual file URL.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/freepornvideosxxx-downloader-fullscreen-01-4abda16e25.webp",
+    "https://apps.serp.co/media/optimized-products/freepornvideosxxx-downloader-fullscreen-02-02e7a498a1.webp",
+    "https://apps.serp.co/media/optimized-products/freepornvideosxxx-downloader-fullscreen-03-6110aefae0.webp",
+    "https://apps.serp.co/media/optimized-products/freepornvideosxxx-downloader-fullscreen-04-5f94f46a98.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "What pages is this extension designed for?",
+      "answer": "The clearest fit is FreePornVideos.xxx video detail pages that follow the sampled /videos/{slug}/ structure."
+    },
+    {
+      "question": "Does the extension use a custom extractor?",
+      "answer": "No. It uses generic page-level media detection from video tags, metadata, and page-level media hints."
+    },
+    {
+      "question": "Is this extension ready for release?",
+      "answer": "The handoff metadata is strong, but the current seed still uses generated direct-video stubs and needs real extraction review before release. Distribution claims should remain unverified."
+    },
+    {
+      "question": "Can I use this extension on other sites?",
+      "answer": "No. The extension is scoped specifically to FreePornVideos.xxx and its subdomains."
+    },
+    {
+      "question": "Do I need an account to use the trial?",
+      "answer": "Yes, but the sign-in process uses secure one-time password verification and does not require a credit card."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Build a local collection of content you have permission to save"
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Save videos from FreePornVideos.xxx pages with a single click",
+    "Player button appears directly on the video wrapper for easy access",
+    "Works on standard video detail pages following the /videos/{slug}/ structure",
+    "No need to manually extract media URLs from page source",
+    "Lightweight browser-based workflow without external tools",
+    "Generic media detection from page-level video and metadata selectors",
+    "Offscreen defaults aligned to the site for reliable downloads",
+    "Pre-release candidate with strong handoff metadata and verified targeting",
+    "FreePornVideos.xxx-specific naming, product page, and match scope",
+    "Built for the site, subdomains, and www pages",
+    "Player button attached to the video wrapper for easy access",
+    "Generic direct-media detection from page-level video and metadata selectors",
+    "Simple one-click workflow from page to saved file",
+    "MP4 output for compatibility with standard media players"
+  ],
+  "content": {
+    "why": [
+      "FreePornVideos.xxx hosts a broad library of video content spread across standard detail pages. Many users find that the actual media URL is hidden behind the player interface, making it difficult to save videos directly. Right-clicking the page or using generic browser save options often fails to surface the real file, forcing viewers into manual extraction routines that waste time.",
+      "This extension solves that problem by placing a download button directly on the video player area. When you visit a supported page, the extension detects the media sources the page exposes and gives you a simple way to save them. You do not need to hunt through page source, open developer tools, or use third-party download managers. The workflow stays inside your browser, and the output is a clean MP4 file ready for local playback."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open FreePornVideos.xxx and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the extension by downloading the latest release from GitHub.",
+      "Navigate to FreePornVideos.xxx and find a video page you want to save.",
+      "Start playing the video so the page exposes the media source.",
+      "Look for the download button on the video player area.",
+      "Click the button to trigger media detection.",
+      "Select the quality or source option you prefer.",
+      "Confirm the download and wait for the file to process.",
+      "Save the MP4 file to your local device."
+    ],
+    "supported_formats": [
+      "Input: Video sources detected from page-level media, metadata, and video tags",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Viewers who want a simple browser-based save flow for FreePornVideos.xxx pages",
+      "Users who prefer a visible download action over digging through page source or network tools",
+      "Anyone who wants to archive videos from the site for offline access",
+      "People who want a lightweight extension without complex configuration"
+    ],
+    "use_cases": [
+      "Save a video from a supported FreePornVideos.xxx page",
+      "Trigger downloads from the player area instead of manual URL hunting",
+      "Capture page-exposed media from the site's video detail pages",
+      "Archive videos for offline viewing without internet connection",
+      "Build a local collection of content you have permission to save"
+    ],
+    "troubleshooting": [
+      "The download button does not appear on the page Make sure you are on a supported FreePornVideos.xxx video page and that playback has started. The extension needs the page to expose media sources before it can detect them.",
+      "The download starts but the file is incomplete Check your internet connection and make sure the page is fully loaded before triggering the download. If the issue persists, try refreshing the page and starting playback again.",
+      "The extension does not detect any media Not all pages on FreePornVideos.xxx may expose media in a detectable format. Try a different video page or verify that the page follows the standard /videos/{slug}/ structure.",
+      "The file saves but will not play Make sure you are using a media player that supports MP4 files. Most modern players and operating systems support this format natively.",
+      "The extension seems slow or unresponsive Close and reopen the browser tab, then reload the video page. If the problem continues, reinstall the extension from the latest release."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported FreePornVideos.xxx page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "This is a pre-release candidate with strong handoff metadata but real QA still required",
+      "The extension uses generic static-media detection and may not work on all pages"
+    ],
+    "about": [
+      "FreePornVideos.xxx is a broad video library site with a.xxx domain and standard detail pages. This extension helps viewers save videos from those pages without leaving the browser or using manual extraction methods."
+    ]
+  },
+  "serpx_link": "https://serpx.link/freepornvideosxxx-downloader",
+  "github_topics": [
+    "freepornvideosxxx-download",
+    "freepornvideosxxx-downloader",
+    "freepornvideosxxx-video-downloader",
+    "freepornvideosxxx-video-downloader-online",
+    "freepornvideosxxx-video-downloader-mac",
+    "freepornvideosxxx-video-downloader-window",
+    "freepornvideosxxx-video-downloader-free",
+    "freepornvideosxxx-video-downloader-extension",
+    "freepornvideosxxx-video-downloader-app",
+    "freepornvideosxxx-video-downloader-chrome",
+    "freepornvideosxxx-video-downloader-from-url",
+    "how-to-download-freepornvideosxxx-videos",
+    "how-to-download-freepornvideosxxx-videos-mac",
+    "how-to-download-freepornvideosxxx-videos-windows",
+    "how-to-download-freepornvideosxxx-videos-online",
+    "how-to-download-freepornvideosxxx-videos-free",
+    "how-to-download-from-freepornvideosxxx",
+    "how-to-download-videos-from-freepornvideosxxx",
+    "download-freepornvideosxxx-videos",
+    "freepornvideosxxx-video-tutorial",
+    "save-freepornvideosxxx-videos",
+    "freepornvideosxxx-video-content-saver",
+    "how-to-download-freepornvideosxxx-videos-for-free"
+  ],
+  "hashtags": [
+    "#FreepornvideosxxxDownload",
+    "#FreepornvideosxxxDownloader",
+    "#FreepornvideosxxxVideoDownloader",
+    "#FreepornvideosxxxVideoDownloaderOnline",
+    "#FreepornvideosxxxVideoDownloaderMac",
+    "#FreepornvideosxxxVideoDownloaderWindow",
+    "#FreepornvideosxxxVideoDownloaderFree",
+    "#FreepornvideosxxxVideoDownloaderExtension",
+    "#FreepornvideosxxxVideoDownloaderApp",
+    "#FreepornvideosxxxVideoDownloaderChrome",
+    "#FreepornvideosxxxVideoDownloaderFromURL",
+    "#HowToDownloadFreepornvideosxxxVideos",
+    "#HowToDownloadFreepornvideosxxxVideosMac",
+    "#HowToDownloadFreepornvideosxxxVideosWindows",
+    "#HowToDownloadFreepornvideosxxxVideosOnline",
+    "#HowToDownloadFreepornvideosxxxVideosFree",
+    "#HowToDownloadFromFreepornvideosxxx",
+    "#HowToDownloadVideosFromFreepornvideosxxx",
+    "#DownloadFreepornvideosxxxVideos",
+    "#FreepornvideosxxxVideoTutorial",
+    "#SaveFreepornvideosxxxVideos",
+    "#FreepornvideosxxxVideoContentSaver",
+    "#HowToDownloadFreepornvideosxxxVideosForFree"
+  ],
+  "youtube_tags": [
+    "Freepornvideosxxx Download",
+    "Freepornvideosxxx Downloader",
+    "Freepornvideosxxx Video Downloader",
+    "Freepornvideosxxx Video Downloader Online",
+    "Freepornvideosxxx Video Downloader Mac",
+    "Freepornvideosxxx Video Downloader Window",
+    "Freepornvideosxxx Video Downloader Free",
+    "Freepornvideosxxx Video Downloader Extension",
+    "Freepornvideosxxx Video Downloader App",
+    "Freepornvideosxxx Video Downloader Chrome",
+    "Freepornvideosxxx Video Downloader From URL",
+    "How To Download Freepornvideosxxx Videos",
+    "How To Download Freepornvideosxxx Videos Mac",
+    "How To Download Freepornvideosxxx Videos Windows",
+    "How To Download Freepornvideosxxx Videos Online",
+    "How To Download Freepornvideosxxx Videos Free",
+    "How To Download From Freepornvideosxxx",
+    "How To Download Videos From Freepornvideosxxx",
+    "Download Freepornvideosxxx Videos",
+    "Freepornvideosxxx Video Tutorial",
+    "Save Freepornvideosxxx Videos",
+    "Freepornvideosxxx Video Content Saver",
+    "How To Download Freepornvideosxxx Videos For Free"
+  ]
+}
